@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.0"
+    "react-native": "0.60.0",
+    "react-native-fbsdk": "git+https://github.com/facebook/react-native-fbsdk.git"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
